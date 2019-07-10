@@ -6,7 +6,7 @@
  body{
      font-family:Lora;
      background-attachment:fixed;
-     background:-webkit-gradient(linear,left top,left bottom,from(rgba(183, 230, 193, 0.65))),url(../img/bg3.jpg);
+     background:-webkit-gradient(linear,left top,left bottom,from(rgba(207, 236, 214, 0.5))),url(../img/bg3.jpg);
      background:linear-gradient(rgba(47,23,15,.65)),url(../img/bg3.jpg);
      /*background:url(../img/bg3.jpg);*/
      background-position:center;
